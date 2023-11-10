@@ -39,7 +39,7 @@ Few useful commands:
     - shows table names in the database
 -schema <table>
     - shows the table creation command
-- All sql commands
+- About sql commands
     - every sql command needs to end with ;
     - example of select statement
         * SELECT * FROM table WHERE column = value;
